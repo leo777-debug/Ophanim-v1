@@ -5,7 +5,7 @@
 
 ## OVERVIEW
 
-OPHANIM-V1 is the world's first autonomous AI intelligence proxy focused on the MENA region. It fuses live OSINT data streams — aircraft, vessels, satellites, and news — into a single tactical dashboard powered by an evolving AI analysis engine called **ASI-EVOLVE**.
+OPHANIM-V1 is an autonomous AI intelligence proxy focused on the MENA region. It fuses live OSINT data streams — aircraft, vessels, satellites, and news — into a single tactical dashboard powered by an evolving AI analysis engine called **ASI-EVOLVE**.
 
 It doesn't just monitor. It predicts.
 
